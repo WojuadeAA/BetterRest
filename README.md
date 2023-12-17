@@ -23,8 +23,8 @@ This project focuses on gathering user input via a date picker, stepper, and pic
 ## Screenshots
 
 ![Screenshot 1](screenshots/image1.png)
-![Screenshot 2](images/image2.png)
-![Screenshot 3](images/image3.png)
+![Screenshot 2](screenshots/image2.png)
+![Screenshot 3](screenshots/image3.png)
 
 ## Getting Started
 
